@@ -1,0 +1,4 @@
+imei=874534146393657
+mac=04:44:62:12:f5:07
+android_id=f48d05b8a8ce0d2d
+serial=02IE8O41286B
