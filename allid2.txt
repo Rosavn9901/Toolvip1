@@ -1,4 +1,4 @@
-imei=874534146393657
-mac=04:44:62:12:f5:07
-android_id=f48d05b8a8ce0d2d
-serial=02IE8O41286B
+imei=352874196503428
+mac=7c:92:ab:3f:11:6d
+android_id=033dfe0410bafa40
+serial=9FJ4A82P7Q1Z
