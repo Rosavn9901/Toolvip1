@@ -1,0 +1,4 @@
+key_vip_1
+key_vip_2
+admin_key
+member_pro
