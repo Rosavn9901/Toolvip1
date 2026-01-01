@@ -1,1 +1,4 @@
-.
+imei=537576614794684
+mac=30:4c:a2:11:ed:bb
+android_id=db255086abd130e1
+serial=c0ccc0bcb0b4
