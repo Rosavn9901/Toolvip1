@@ -1,4 +1,4 @@
 imei=537576614794684
 mac=30:4c:a2:11:ed:bb
-android_id=1473df9bc520f70d
+android_id=256dd70954d7f580
 serial=c0ccc0bcb0b4
